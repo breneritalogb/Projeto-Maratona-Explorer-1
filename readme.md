@@ -1,4 +1,4 @@
-<link href:"https://breneritalogb.github.io/Projeto-Maratona-Explorer-1/" />
+https://breneritalogb.github.io/Projeto-Maratona-Explorer-1
 
 # HTML
 - HyperText Markup Language
