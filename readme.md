@@ -7,7 +7,6 @@
   - atributos
 - Linguagem
   - maneira de escrever
-
 # CSS
 
 - Apresentação visual para o cliente
