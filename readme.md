@@ -1,4 +1,4 @@
-# Maratona Explorer 1 - 
+# Maratona Explorer 1  
 
 ![preview](./.github/preview.png)
 
